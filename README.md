@@ -65,3 +65,12 @@ git push origin main
 
 ---
 ⚠️ Everyone must use the same Python version and environment.
+---
+
+## 5️⃣ Packages to install
+
+- 01_data_exploration
+  
+  ```bash
+  pip install pandas matplotlib seaborn statsmodels scikit-learn prophet
+  ```
